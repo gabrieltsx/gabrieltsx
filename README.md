@@ -1,16 +1,20 @@
-### Hi there 👋
+### Gabriel Silva
 
-<!--
-**gabrieltsx/gabrieltsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://www.linkedin.com/in/gabrielhls" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+Entusiasta do desenvolvimento web e da linguagem JavaScript.
+
+Já trabalhei com Java Spring Boot, Angular, React e entre outras tecnologias desse ecossistema.
+
+<br/>
+
+<div>
+  <a href="https://github.com/gabrieltsx">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltsx&layout=compact&langs_count=7&theme=dracula"/>
+</div>
