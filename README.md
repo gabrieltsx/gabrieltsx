@@ -10,7 +10,7 @@
 
 Entusiasta do desenvolvimento web e da linguagem JavaScript.
 
-Já trabalhei com Java Spring Boot, Angular, React e entre outras tecnologias desse ecossistema.
+Já trabalhei com Java Spring Boot, Angular, React e entre outras tecnologias desses ecossistemas.
 
 <br/>
 
